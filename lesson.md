@@ -59,7 +59,7 @@ FDD is an iterative and incremental software development process that follows th
 
 
 - Test Driven Development (TDD)
-  TDD is a software development process where the test is written before the code. It follows these steps:
+TDD is a software development process where the test is written before the code. It follows these steps:
 1. **Write a Test**: Before writing the functional code, a test is written to define what the code will do. At this point, the test will fail because there's no code to test.
 2. **Write the Code**: The functional code is written to pass the test. The code should be the simplest possible code to pass the test.
 3. **Refactor**: The code is refactored to meet standards and to ensure it's as simple and efficient as possible, while still passing the tests.
