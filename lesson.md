@@ -50,7 +50,21 @@ Choose 3 among the following Agile Methodologies and research how each is conduc
 - Dynamic Systems Development Method (DSDM)
 - Lean Development
 - Feature-Driven Development (FDD)
+FDD is an iterative and incremental software development process that follows these steps:
+1. **Develop an Overall Model**: A high-level walk through of the scope of the system is conducted to identify the key areas.
+2. **Build a Feature List**: All the potential features that could be included in the product are listed. These are usually written in the form "action, result, object", such as "Calculate, total cost, of a purchase".
+3. **Plan By Feature**: A plan is created for delivering each feature. This includes deciding the order of implementation.
+4. **Design By Feature**: Each feature is designed in detail, creating a sequence diagram for each one.
+5. **Build By Feature**: Each feature is built and then integrated into the overall model. This includes all testing and documentation.
+
+
 - Test Driven Development (TDD)
+  TDD is a software development process where the test is written before the code. It follows these steps:
+1. **Write a Test**: Before writing the functional code, a test is written to define what the code will do. At this point, the test will fail because there's no code to test.
+2. **Write the Code**: The functional code is written to pass the test. The code should be the simplest possible code to pass the test.
+3. **Refactor**: The code is refactored to meet standards and to ensure it's as simple and efficient as possible, while still passing the tests.
+4. **Repeat**: The process is repeated for each piece of functionality in the system. The repetition of these steps leads to a cycle known as "Red, Green, Refactor" where Red is writing a failing test, Green is making it pass by writing code, and Refactor is improving the code while keeping it working.
+
 - Kanban
 
 ---
