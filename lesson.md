@@ -90,10 +90,10 @@ Source: https://www.scrum.org/resources/what-is-scrum
 
 ### Activity - Research
 What are the use of each Scrum artifacts:
-1. Product Backlog
-1. Sprint Backlog
-1. Product Increment
-
+Scrum artifacts are key tools in Agile software development. Here's a brief explanation of each:
+1. **Product Backlog**: This is a prioritized list of all the potential features, improvements, and fixes for the product. It's maintained by the Product Owner and it's dynamic, meaning items can be added, removed, or reprioritized as needed.
+1. **Sprint Backlog**: This is a subset of the Product Backlog that the team commits to complete during the next Sprint (a time-boxed iteration, typically 2-4 weeks). The team owns the Sprint Backlog and can adjust it during the Sprint as necessary.
+1. **Product Increment**: This is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the end of a Sprint, the new Increment must be in a usable condition and meet the Scrum Team’s definition of "Done", regardless of whether the Product Owner decides to actually release it.
 ---
 
 ## Part 3 - Class Activity (What are agile user stories?)
