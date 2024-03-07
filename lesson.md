@@ -52,22 +52,19 @@ Choose 3 among the following Agile Methodologies and research how each is conduc
   **Pair Programming**: All code is written with two programmers at one machine.
 
 - Scrum
-- Crystal
-  Crystal is a family of Agile methodologies that focuses on people, interactions, community, skills, talents, and communications. It's characterized by several unique features:
+- Crystal is a family of Agile methodologies that focuses on people, interactions, community, skills, talents, and communications. It's characterized by several unique features:
   **Cocktail Naming**: Crystal methods are named using colors to signify the 'weight' or 'hardness' of the method. For example, Crystal Clear, Crystal Yellow, Crystal Orange, and Crystal Red.
   **Frequent Delivery**: The primary measure of progress is frequent delivery of usable code to users.
   **Reflective Improvement**: Teams regularly reflect on how to become more effective, then tunes and adjusts its behavior accordingly.
   **Osmotic Communication**: Information is absorbed by team members through overhearing what others are doing.
 
-- Dynamic Systems Development Method (DSDM)
-  DSDM is an Agile method that focuses on the full project lifecycle. DSDM mandates that the project stakeholders actively participate to ensure the correct solution is delivered. It's characterized by:
+- Dynamic Systems Development Method (DSDM) is an Agile method that focuses on the full project lifecycle. DSDM mandates that the project stakeholders actively participate to ensure the correct solution is delivered. It's characterized by:
   1. **MoSCoW Prioritization**: Requirements are categorized as Must have, Should have, Could have, and Won't have.
   2. **Timeboxing**: The project is divided into stages and each stage is timeboxed.
   3. **Prototyping**: Prototypes are created to get early feedback from users.
 
 
-- Lean Development
-  Lean Development is an Agile methodology that focuses on the creation of value for the end customer and the elimination of wasteful practices. It's characterized by:
+- Lean Development is an Agile methodology that focuses on the creation of value for the end customer and the elimination of wasteful practices. It's characterized by:
   1. **Eliminate Waste**: Anything that does not create value for the customer is considered waste.
   2. **Build Quality In**: Quality is improved by building it into products from the beginning, rather than through inspection at the end.
   3. **Create Knowledge**: Lean development is a learning process that aims to create new knowledge as it progresses.
