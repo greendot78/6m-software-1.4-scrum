@@ -104,9 +104,12 @@ Scrum artifacts are key tools in Agile software development. Here's a brief expl
 |Instructor facilitate students to answer three questions by getting students to type in chat.|20 mins|Summarizes and highlight the good inputs from student.|
 
 Three Questions:
-1. What are user stories?
-1. Why user stories?
-1. Think and provide an example of a user story.
+1. **What are user stories?**
+User stories are a simple, natural language description of one or more features of a software system, written from the perspective of an end user. They typically follow a simple template: "As a [type of user], I want [an action] so that [a benefit/a value]".
+2. **Why user stories?**
+User stories are a way to capture product functionality from the user's perspective, ensuring the development team understands the user's needs and expectations. They promote communication, focus on the user's needs, and provide a basis for estimating and prioritizing development tasks.
+3. **Example of a user story:**
+"As a user, I want to be able to reset my password so that I can regain access to my account if I forget it."
 
 ---
 
@@ -122,3 +125,16 @@ Activity: Choose a Scenario and create at least 10 user stories for your chosen 
 7. Govtech website
 
 Remember the format of a user story: `As a ____, I want to ____, so that _____`
+---
+
+10 user stories for a booking management platform:
+1. As a customer, I want to search for hotels in a specific location, so that I can find a place to stay during my trip.
+2. As a customer, I want to filter hotel search results by price, so that I can find a hotel within my budget.
+3. As a customer, I want to view detailed information about a hotel, including photos and reviews, so that I can make an informed decision.
+4. As a customer, I want to book a hotel room for specific dates, so that I can plan my trip.
+5. As a customer, I want to receive a confirmation email after booking a hotel, so that I have a record of my booking.
+6. As a customer, I want to search for flights by departure and arrival locations and dates, so that I can find a suitable flight.
+7. As a customer, I want to select a seat when I book a flight, so that I can choose where I will sit.
+8. As a customer, I want to pay for my hotel and flight bookings online, so that I can confirm my bookings immediately.
+9. As a customer, I want to cancel my booking and get a refund, so that I can manage changes in my plans.
+10. As a hotel owner, I want to list my hotel on the platform, so that I can attract more customers.
