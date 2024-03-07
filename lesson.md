@@ -44,19 +44,19 @@ The 12 principles applies to every agile methodologies.
 ### Activity - Research
 
 Choose 3 among the following Agile Methodologies and research how each is conducted:
-- Extreme Programming (XP)
-  XP is an Agile methodology that aims to produce higher quality software, and higher quality of life for the development team. XP is characterized by:
-  **The Planning Game**: Quick determination of the scope of the next release by combining business priorities and technical estimates.
-  **Small Releases**: Put a simple system into production quickly, then release new versions on a very short cycle.
-  **System Metaphor**: Each project has an organizing metaphor, which provides an easy to remember naming convention.
-  **Pair Programming**: All code is written with two programmers at one machine.
+- Extreme Programming (XP)\
+  XP is an Agile methodology that aims to produce higher quality software, and higher quality of life for the development team. XP is characterized by:\
+  **The Planning Game**: Quick determination of the scope of the next release by combining business priorities and technical estimates.\
+  **Small Releases**: Put a simple system into production quickly, then release new versions on a very short cycle.\
+  **System Metaphor**: Each project has an organizing metaphor, which provides an easy to remember naming convention.\
+  **Pair Programming**: All code is written with two programmers at one machine.\
 
 - Scrum
-- Crystal is a family of Agile methodologies that focuses on people, interactions, community, skills, talents, and communications. It's characterized by several unique features:
-  **Cocktail Naming**: Crystal methods are named using colors to signify the 'weight' or 'hardness' of the method. For example, Crystal Clear, Crystal Yellow, Crystal Orange, and Crystal Red.
-  **Frequent Delivery**: The primary measure of progress is frequent delivery of usable code to users.
-  **Reflective Improvement**: Teams regularly reflect on how to become more effective, then tunes and adjusts its behavior accordingly.
-  **Osmotic Communication**: Information is absorbed by team members through overhearing what others are doing.
+- Crystal is a family of Agile methodologies that focuses on people, interactions, community, skills, talents, and communications. It's characterized by several unique features:\
+  **Cocktail Naming**: Crystal methods are named using colors to signify the 'weight' or 'hardness' of the method. For example, Crystal Clear, Crystal Yellow, Crystal Orange, and Crystal Red.\
+  **Frequent Delivery**: The primary measure of progress is frequent delivery of usable code to users.\
+  **Reflective Improvement**: Teams regularly reflect on how to become more effective, then tunes and adjusts its behavior accordingly.\
+  **Osmotic Communication**: Information is absorbed by team members through overhearing what others are doing.\
 
 - Dynamic Systems Development Method (DSDM) is an Agile method that focuses on the full project lifecycle. DSDM mandates that the project stakeholders actively participate to ensure the correct solution is delivered. It's characterized by:
   1. **MoSCoW Prioritization**: Requirements are categorized as Must have, Should have, Could have, and Won't have.
