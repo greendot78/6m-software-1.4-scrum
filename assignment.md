@@ -20,10 +20,14 @@ Finally, Scrum **prioritizes work** to help the team focus on the most valueble 
 ---
 
 
+
+
+
+
 Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
 
-```
+***
 1. As a **user**, I want to **search for books by title, author or ISBN number**, so that **I can find the book I'm looking for easily**.  
 2. As a **user**, I want to **reserve a book that is currently borrowed**, so that **I can be next in line when it's returned**.  
 3. As a **user**, I want to **renew the borrowing period of a book**, so that **I have longer time to read it**.  
@@ -34,7 +38,8 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 8. As a **librarian**, I want to **view users borrowing history**, so that **I can make recommendations based on their reading habits**.  
 9. As a **librarian**, I want to **send reminders to users who have overdue books**, so that **the books can be returned and prevent excessive overdue fines**.  
 10. As a **librarian**, I want to **manage reservations for books**, so that **I can ensure a fair and efficient system for users who want to borrow popular books**.  
-```
+
+***
 
 
 ### Submission 
