@@ -7,15 +7,18 @@ Write your answers for each scenario:
 Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. In your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
-```
-> Implementing Scrum will definitely improve the productivity of your startup IT team. This is because Scrum is an Agile framework that promotes collaboration, flexibility and transparency, which are crucial for a fast-paced startup environment.
+---
 
-First, Scrum encourages iterative progress and continous feedback. The team can deliver work in small, manageable increments, which allows them to adapt to changes quickly. This is beneficial for startups where requirements can change frequently.
+Implementing Scrum will definitely **improve the productivity** of your startup IT team. This is because Scrum is an Agile framework that **promotes collaboration, flexibility and transparency,** which are crucial for a fast-paced startup environment.
 
-Second, Scrum promotes transparency and communcation via regular scrum meetings (like daily stand-ups, sprint planning and retrospectives). This ensure every team member is on the same page about what is being worked on and challenges faced by others. This can lead to quicker problem-solving, and less time wasted on miscommunications.
+First, Scrum encourages **iterative progress and continous feedback**. The team can deliver work in small, manageable increments, which allows them to adapt to changes quickly. This is beneficial for startups where requirements can change frequently.
 
-Finally, Scrum prioritizes work to help the team focus on the most valueble tasks first. This ensures the team is always working on what's most important for the business, which leads to more efficient use of time and resources.
-```
+Second, Scrum promotes **transparency and communcation** via regular scrum meetings (like daily stand-ups, sprint planning and retrospectives). This ensure every team member is on the same page about what is being worked on and challenges faced by others. This can lead to quicker problem-solving, and less time wasted on miscommunications.
+
+Finally, Scrum **prioritizes work** to help the team focus on the most valueble tasks first. This ensures the team is always working on what's most important for the business, which leads to more efficient use of time and resources.
+
+---
+
 
 Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
