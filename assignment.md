@@ -23,9 +23,9 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 ```
 1. As a **user**, I want to **search for books by title, author or ISBN number**, so that **I can find the book I'm looking for easily**.
 2. As a **user**, I want to **reserve a book that is currently borrowed**, so that **I can be next in line when it's returned**.
-3. As a **user**, I want to **renew the borrowing period of a book**, so that **I can keep it for longer if I haven't finished reading it**.
+3. As a **user**, I want to **renew the borrowing period of a book**, so that **I have longer time to read it**.
 4. As a **user**, I want to **receive reminders when my borrowed book is due**, so that **I can return it before the due date**.
-5. As a **user**, I want to **view my borrowing history**, so that **I can keep track of the books I've read**.
+5. As a **user**, I want to **view my borrowing history**, so that **I can keep track of the books borrowed previously**.
 6. As a **librarian**, I want to **add new books to the library's inventory**, so that **users can checkout the latest addition**.
 7. As a **librarian**, I want to **update the status of books (available, borrowed, reserved) automatically**, so that **the system accurately reflects the current state of the inventory**.
 8. As a **librarian**, I want to **view users borrowing history**, so that **I can make recommendations based on their reading habits**.
