@@ -18,11 +18,7 @@ Second, Scrum promotes **transparency and communcation** via regular scrum meeti
 Finally, Scrum **prioritizes work** to help the team focus on the most valueble tasks first. This ensures the team is always working on what's most important for the business, which leads to more efficient use of time and resources.
 
 ---
-
-
-
-
-
+<br><br><br>
 
 Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
@@ -40,7 +36,7 @@ Write ten (10) user stories for a book-borrowing website for a library. Write it
 10. As a **librarian**, I want to **manage reservations for books**, so that **I can ensure a fair and efficient system for users who want to borrow popular books**.  
 
 ***
-
+<br><br><br>
 
 ### Submission 
 
